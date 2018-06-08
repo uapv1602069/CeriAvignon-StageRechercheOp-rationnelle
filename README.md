@@ -7,9 +7,9 @@ README
 1. Contenu
 
 Cette archive contient un dossier Parcours correspondant au projet qui contient:
-	- Un dossier doc contenant la javadoc
-	- Un dossier src contenant les fichiers source .javadoc
-	- Un dossier style contenant la feuille de style des graphes (non utilisée)
+- Un dossier doc contenant la javadoc
+- Un dossier src contenant les fichiers source .javadoc
+- Un dossier style contenant la feuille de style des graphes (non utilisée)
 
 -------------------------------
 	
