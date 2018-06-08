@@ -1,0 +1,44 @@
+graph 
+{
+	fill-color: #ffffff;
+}
+
+node 
+{
+	size: 30px;
+	shape: circle;
+	fill-color: white;
+	stroke-mode: plain;
+	stroke-color: black;
+	text-size: 20;
+}
+
+node:clicked 
+{
+	fill-color: red;
+}
+
+node.current
+{
+	fill-color: #4486ff;
+}
+
+node.neighbor
+{
+	fill-color: #2bff19;
+}
+
+node.stacked
+{
+	fill-color: #a3ff9b;
+}
+
+node.visited
+{
+	fill-color: #ccdeff;
+}
+
+edge.current
+{
+	fill-color: #4486ff; 
+}
